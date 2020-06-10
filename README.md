@@ -71,5 +71,5 @@ In the future this game can be extended like,
  
  ### This game has been modified to played among 3 players.
  
- * python3 main.py --player_1 input/player_1.txt --player_2 input/player_2.txt --player_3 input/player_3.txt
+ ``` python3 main.py --player_1 input/player_1.txt --player_2 input/player_2.txt --player_3 input/player_3.txt ```
 
