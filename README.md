@@ -66,4 +66,8 @@ In the future this game can be extended like,
  * we can create a tournament.
  * we can add different number of coins and also the turn types to suite the need.
  * we can add more players.
+ 
+ ** Version 1.1 **
+ 
+ ### This game has been modified to play among 3 players.
 
