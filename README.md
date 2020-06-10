@@ -1,3 +1,4 @@
+** Version 1.0 **
 # Clear-Strike
 
 ## A new game in carrom-board called Clean Strike is played by 2 players with multiple turns. 
