@@ -60,9 +60,10 @@ Player 1 won the game. Final Score: 15-11
 
 Passing input as files:
 
-2. ``` python .\main.py .\input\player_1.txt .\input\player_2.txt ```
+2. ``` python3 main.py --player_1 input/player_1.txt --player_2 input/player_2.txt ```
 
 In the future this game can be extended like,
  * we can create a tournament.
  * we can add different number of coins and also the turn types to suite the need.
+ * we can add more players.
 
